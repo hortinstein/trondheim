@@ -1,8 +1,4 @@
 {
-    "name": "Node.js Sample",
+    "name": "steamcmd Sample",
     "dockerFile": "Dockerfile",
-    "appPort": 3000,
-    "extensions": [
-        "dbaeumer.vscode-eslint"
-    ]
 }
