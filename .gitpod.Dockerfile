@@ -1,4 +1,4 @@
-FROM ubuntu
+FROM gitpod/workspace-full
 
 RUN apt-add-repository multiverse
 RUN dpkg --add-architecture i386
