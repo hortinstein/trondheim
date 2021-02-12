@@ -4,6 +4,5 @@
     "appPort": 3000,
     "extensions": [
         "dbaeumer.vscode-eslint"
-    ],
-    "postCreateCommand": "yarn install"
+    ]
 }
