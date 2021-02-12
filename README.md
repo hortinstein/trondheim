@@ -2,7 +2,7 @@
 
 # trondheim
 
-[](https://www.shacknews.com/article/122720/how-to-set-up-a-valheim-dedicated-server?amphtml=1)
+[good link on setup](https://www.shacknews.com/article/122720/how-to-set-up-a-valheim-dedicated-server?amphtml=1)
 
 Commands: 
 
@@ -14,5 +14,5 @@ $ ./steamcmd.sh +login anonymous +force_install_dir /home/gitpod/trondheim_serve
 ```
 
 
-    - ./tmp/saves:/home/steam/.config/unity3d/IronGate/Valheim
-    - ./tmp/server:/home/steam/valheim
+    - ./tmp/saves:/home/gitpod/.config/unity3d/IronGate/Valheim
+    
